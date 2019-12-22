@@ -31,11 +31,11 @@ layui.use(['form','layer','table','laytpl'],function(){
                 }else if(d.userGrade == "1"){
                     return "中级会员";
                 }else if(d.userGrade == "2"){
-                    return "高级会员";
+                    return "管理员";
                 }else if(d.userGrade == "3"){
-                    return "钻石会员";
+                    return "老师";
                 }else if(d.userGrade == "4"){
-                    return "超级会员";
+                    return "学生";
                 }
             }},
             {field: 'userEndTime', title: '最后登录时间', align:'center',minWidth:150},

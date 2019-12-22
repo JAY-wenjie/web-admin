@@ -1,7 +1,7 @@
 {
 	"contentManagement": [
 		{
-			"title": "文章列表",
+			"title": "竞赛列表",
 			"icon": "icon-text",
 			"href": "page/news/newsList.html",
 			"spread": false

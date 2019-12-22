@@ -5,7 +5,7 @@
   "data": [
     {
       "usersId": "1",
-      "userName": "驊驊龔頾",
+      "userName": "符奇",
       "userEmail": "mage@layui.com",
       "userSex": "男",
       "userStatus": "0",
@@ -14,7 +14,7 @@
       "userDesc" : "layuiCMS作者，原名‘请叫我马哥’"
     },{
       "usersId": "2",
-      "userName": "贤心",
+      "userName": "士合",
       "userEmail": "xianxin@layui.com",
       "userSex": "保密",
       "userStatus": "0",
@@ -24,7 +24,7 @@
     },
     {
       "usersId": "3",
-      "userName": "纸飞机",
+      "userName": "李爸爸",
       "userEmail": "fly@layui.com",
       "userSex": "男",
       "userStatus": "1",
